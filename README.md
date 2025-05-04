@@ -12,7 +12,29 @@ This is the NTUT 113-2 Computer Graphics Midterm Project, a program developed us
 
 ## Demo
 
-...
+Show point, line, and face rendering modes for the object.
+
+![alt text](./demo/point_line_face_rendering_modes.gif)
+
+Show single-color and random-color rendering modes.
+
+![alt text](./demo/single_random_color_rendering_modes.gif)
+
+Rotate and translate the object.
+
+![alt text](./demo/rotate_translate_object.gif)
+
+Scale the object using the mouse wheel or the `k` and `l` keys.
+
+![alt text](./demo/scale_object.gif)
+
+Move the camera away from the object, then press `Ctrl` to refocus the camera on the object.
+
+![alt text](./demo/move_camera.gif)
+
+Orbit the camera around the object leftward and upward.
+
+![alt text](./demo/orbit_camera.gif)
 
 ## Prerequisites
 
