@@ -45,3 +45,37 @@ If you want to add custom .obj file, you can append file name as parameters (mor
 Show the execution result.
 
 ![alt text](./demo/execution_result.png)
+
+## Controls
+
+Use the following keyboard to interact with the object and camera:
+
+| Key/Action             | Description                                 |
+| ---------------------- | ------------------------------------------- |
+| `Esc`                  | **Exit** program                            |
+| `r`                    | Reset model and camera position             |
+| `q`                    | Translate object along positive X-axis      |
+| `a`                    | Translate object along negative X-axis      |
+| `w`                    | Translate object along positive Y-axis      |
+| `s`                    | Translate object along negative Y-axis      |
+| `e`                    | Translate object along positive Z-axis      |
+| `d`                    | Translate object along negative Z-axis      |
+| `1`                    | Rotate object positively around X-axis      |
+| `2`                    | Rotate object positively around Y-axis      |
+| `3`                    | Rotate object positively around Z-axis      |
+| `4`                    | Rotate object negatively around X-axis      |
+| `5`                    | Rotate object negatively around Y-axis      |
+| `6`                    | Rotate object negatively around Z-axis      |
+| `k` / `Mouse Wheel Up`   | Scale object up (Zoom in)                   |
+| `l` / `Mouse Wheel Down` | Scale object down (Zoom out)                |
+| `Up Arrow`             | Move camera forward                         |
+| `Down Arrow`           | Move camera backward                        |
+| `Left Arrow`           | Move camera left                            |
+| `Right Arrow`          | Move camera right                           |
+| `m`                    | Move camera up                              |
+| `n`                    | Move camera down                            |
+| `F1`                   | Orbit camera left around object             |
+| `F2`                   | Orbit camera right around object            |
+| `F3`                   | Orbit camera up around object               |
+| `F4`                   | Orbit camera down around object             |
+| `Ctrl`                 | Re-center camera focus on the object        |
