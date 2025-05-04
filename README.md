@@ -42,6 +42,6 @@ If you want to add custom .obj file, you can append file name as parameters (mor
 .\x64\Debug\opengl-obj-viewer.exe .\model_file\double_octahedron.obj
 ```
 
-The results.
+Show the execution result.
 
 ![alt text](./demo/execution_result.png)
