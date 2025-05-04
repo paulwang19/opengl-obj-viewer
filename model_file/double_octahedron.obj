@@ -1,0 +1,33 @@
+# OBJ file created by ply_to_obj.c
+#
+g Object001
+
+v 1 0 0 # first
+v 0 -1 0
+v -1 0 0
+v 0 1 0
+v 0 0 1
+v 0 0 -1
+v 1 2 0 # second
+v 0 1 0
+v -1 2 0
+v 0 3 0
+v 0 2 1
+v 0 2 -1
+
+f 2 1 5 # first
+f 3 2 5
+f 4 3 5
+f 1 4 5
+f 1 2 6
+f 2 3 6
+f 3 4 6 
+f 4 1 6
+f 8 7 11 # second
+f 9 8 11
+f 10 9 11
+f 7 10 11
+f 8 7 12
+f 8 9 12
+f 9 10 12 
+f 10 7 12
